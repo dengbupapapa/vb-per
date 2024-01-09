@@ -1,6 +1,6 @@
 {
-  "name": "vb-per",
-  "version": "0.1.1",
+  "name": "vb-perf",
+  "version": "0.1.0",
   "main": "dist/vb-per.umd.min.js",
   "scripts": {
     "serve": "vue-cli-service serve",

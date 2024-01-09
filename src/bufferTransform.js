@@ -3,7 +3,7 @@ try {
   new self.SharedArrayBuffer(1);
   hasSharedArrayBuffer = true;
 } catch (e) {
-  console.warn(e);
+  // console.warn(e);
 }
 export function toSharedView(view) {
   if (hasSharedArrayBuffer) {
